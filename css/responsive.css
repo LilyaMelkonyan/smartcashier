@@ -1,0 +1,929 @@
+@media screen and (max-width: 3000px){
+	.picImg {
+    	margin-left: 2000px;
+    	margin-top: -200px
+	}
+	.apiImg img{
+		max-width: 35%;
+    	margin-left: 366px;
+	}
+	.apiDiv{
+		margin-top: 150px
+	}
+	.offerDiv,
+	.how_work{
+		top: 26%
+	}
+}
+
+@media screen and (max-width: 2700px){
+	.picImg {
+    	margin-left: 1800px;
+    	margin-top: -250px
+	}
+}
+
+@media screen and (max-width: 2441px){
+	.picImg {
+    	margin-left: 1600px;
+    	margin-top: -300px
+	}
+}
+@media screen and (max-width: 2300px){
+	.picImg {
+    	margin-left: 1500px;
+	}
+}
+@media screen and (max-width: 2100px){
+	.picImg {
+    	margin-left: 1400px;
+	}
+}
+@media screen and (max-width: 2000px){
+	.picImg {
+    	margin-left: 1200px;
+    	margin-top: -350px
+	}
+	.apiImg img{
+			margin-left: 245px
+	}
+	.offerDiv,
+	.how_work{
+		top: 20%
+	}
+}
+@media screen and (max-width: 1780px){
+	.picImg {
+    	margin-left: 1050px;
+	}
+	.offerDiv,
+	.how_work{
+		top: 15%
+	}
+}
+
+@media screen and (max-width: 1570px){
+	.picImg {
+    	margin-left: 900px;
+	}
+	.apiImg img{
+			margin-left: 200px;
+			max-width: 40%
+	}
+	.offerDiv,
+	.how_work{
+		top: 7%
+	}
+}
+@media screen and (max-width: 1424px){
+	.picImg {
+    	margin-left: 800px;
+	}
+	.apiImg img{
+			max-width: 45%
+	}
+	.offerDiv,
+	.how_work{
+		top: 3%
+	}
+}
+@media screen and (max-width: 1370px){
+	.picImg{
+		margin-left: 630px;
+		margin-top: -495px;
+	}
+	.apiDiv{
+		margin-top: 41px
+	}
+	#about{
+		margin-top: 100px
+	}
+	.apiImg img{
+		margin-left: 50px
+	}
+}
+
+@media screen and (max-width: 1336px){
+	.picImg {
+    	margin-left: 650px;
+	}
+	.apiImg img{
+		margin-left: 80px
+	}
+	.offerDiv,
+	.how_work{
+		top: 0%
+	}
+}
+
+@media screen and (max-width: 1235px){
+	.picImg {
+    	margin-left: 600px;
+    	margin-top: -400px
+	}
+	.apiImg img{
+			max-width: 50%;
+			margin-left: 30px
+	}
+}
+
+@media screen and (max-width: 1191px){
+	.picImg {
+    	margin-left: 550px;
+	}
+	.apiImg img{
+			max-width: 50%;
+			margin-left: 30px
+	}
+	.menuTwo{
+		margin-top: 70px;
+	}
+	.phoneMailDiv{
+		padding-left: 0 !important;
+		padding-right: 0 !important
+	}
+	#navbarNav ul li a{
+		margin-left: 5px
+	}
+	.apiReg{
+		margin-top: 18px
+	}
+	.paddingDiv {
+    	padding-left: 165px !important;
+	}
+}
+
+@media screen and (max-width: 1151px){
+	.paddingDiv {
+    	padding-left: 50px !important;
+	}
+}
+
+@media screen and (max-width: 1072px){
+	.picImg {
+    	margin-left: 500px;
+    	margin-top: -420px
+	}
+	.menuTwo{
+		margin-top: 60px;
+	}
+	#about{
+		margin-top: 60px
+	}
+	.offerDiv{
+		top: -10px
+	}
+	.how_work{
+		top: -20px
+	}
+}
+
+@media screen and (max-width: 1041px){
+	.picImg {
+    	margin-left: 450px;
+    	margin-top: -320px
+	}
+	.phoneMailDiv ul li a span{
+		font-size: 11px
+	}
+	.btn-blue-second,
+	.btn-blue{
+		font-size: 12px
+	}
+	.btn-blue{
+		margin-top:18px;
+	}
+	.paddingDiv{
+		padding-left: 100px !important
+	}
+	.apiImg img{
+		max-width: 55%;
+		margin-left: 0
+	}
+	.bottom_border_two{
+		width: 40%; 
+	}
+	#work div{
+		z-index: 50
+	}
+	.workTxt{
+		margin-top: 30px;
+		padding-top: 30px;
+		padding-bottom: 20px
+	}
+	.workimg{
+		margin-top: -25px
+	}
+	#about{
+		margin-top: 100px
+	}
+	.connactionDivs div h6{
+		font-size: 14px
+	}
+	#connection{
+		padding-bottom: 200px
+	}
+	#offer,
+	#faq{
+		padding-bottom: 50px
+	}
+	.apiReg{
+		margin-top: 0
+	}
+}
+@media screen and (max-width: 991px){
+	.navbar-brand:first-child{
+		display: block !important
+	}
+	.btn-blue{
+		margin-top: 10px;
+		max-width: 80%;
+		margin-left: 120px;
+	}
+	.phoneMailDiv{
+		margin-left: -30px;
+	}
+	.phoneMailDiv ul li{
+		margin-left: -26px
+	}
+	.phoneMailDiv ul li:last-child a img{
+		padding-left: 5px
+	}
+	.phoneMailDiv ul li:last-child a span{
+		padding-left: 15px
+	}
+	#about div{
+		z-index: 50
+	}
+	.apiDiv{
+		top: 200px;
+	}
+	.apiImg img{
+		margin-left: -40px;
+		margin-top: 130px;
+		max-width: 70%
+	}
+	.paddingDiv{
+		margin-top: 50px;
+	}
+	.picTwo img{
+		max-width: 100% !important;
+		margin-top: 20px;
+	}
+	.priceDiv div,
+	.advDivs div{
+		margin-left: 50px;
+	}
+	.how_work{
+		background-color: #73c1f3
+	}
+	.workTxt .workh5 {
+    	margin-top: 0px;
+	}
+	.priceDiv{
+		margin-top: 400px
+	}
+	.downloadImg{
+		height: 205px
+	}
+	.footer .phoneMailDiv ul li {
+    	margin-left: 63px;
+	}
+	.footer .btn-blue{
+		margin-left: 0;
+		max-width: 100%
+	}
+	.footer .phoneMailDiv{
+		padding-top: 23px
+	}
+	.footer .logo{
+		margin-top: 10px
+	}
+	.footer .smart{
+		margin-left: 30px
+	}
+	.formDiv form .btn-blue-form{
+		font-size: 9px
+	}
+	.displayPic-first{
+		display: none;
+	}
+	.displayPic-last{
+		display: block;
+	}
+	.connactionDivs:nth-child(4),
+	.connactionDivs:nth-child(5){
+		margin-top: 150px
+	}
+}
+
+@media screen and (max-width: 891px){
+	.picImg {
+    	margin-left: 370px;
+    	margin-top: -250px
+	}
+	.picTwo{
+		padding: 0 !important;
+		z-index: -1 !important
+	}
+}
+@media screen and (max-width: 820px){
+	.picImg {
+    	margin-left: 290px;
+    	margin-top: -200px
+	}
+	.paddingDiv{
+		padding-left: 30px !important;
+		max-width: 500px !important
+	}
+	.apiImg img{
+		margin-top: 180px;
+		max-width: 80%
+	}
+}
+
+@media screen and (max-width: 768px){
+	.picImg {
+    	margin-top: -100px
+	}
+	#navbarNav ul li a{
+		font-size: 13px;
+	}
+	.phoneMailDiv {
+    	margin-left: 0px;
+	}
+	.phoneMailDiv ul li a span{
+		font-size: 7px;
+	}
+	.phoneMailDiv ul li:last-child a span{
+		padding-left: 10px;
+	}
+	.phoneMailDiv ul li a img{
+		max-width: 15%
+	}
+	.btn-blue {
+	    max-width: 100%;
+	    margin-left: 33px;
+	    font-size: 10px
+	}
+	.paddingDiv{
+		padding-left: 20px !important
+	}
+	.paddingDiv h1{
+		font-size: 40px
+	}
+	.paddingDiv p{
+		font-size: 13px
+	}
+	#about{
+		margin-top: 70px
+	}
+	.priceDiv{
+		margin-top: 150px
+	}
+	.priceDiv div,
+	.advDivs div{
+		margin-left: 0;
+	}
+	.costService{
+		margin-top: 600px !important
+	}
+	.col-md:first-child{
+		margin-top: 0
+	}
+	.col-lg{
+		margin-top: 150px
+	}
+	#about{
+		margin-top: 100px;
+		padding-bottom: 30px
+	}
+	#work{
+		padding-bottom: 0
+	}
+	.workimg{
+		margin-left: -50px
+	}
+	.workTxt{
+		margin-top: 0;
+		padding-top: 0;
+		padding-bottom: 20px
+	}
+	.workTxt .workh5{
+		margin-top: 0
+	}
+	.workTxt {
+		padding-top: 0 !important;
+	}
+	.connaction{
+		margin-top: -125px
+	}
+	#connection {
+    	padding-bottom: 100px;
+	}
+	#faq, #reg, #offer {
+    	padding-bottom: 30px;
+	}
+	#reg{
+		margin-top: 50px
+	}
+	.formDiv form .btn-blue-form{
+		font-size: 10px !important;
+		padding: 18px 5px 13px 5px;
+	}
+	.offerDiv{
+		background-color: #73c1f3;
+		padding-bottom: 25px
+	}
+	.apiRegTwo{
+		padding: 0 !important
+	}
+	.apiImg img {
+	    margin-left: 5px;
+	    margin-top: 150px;
+	    max-width: 100%;
+	}
+	.footer {
+    	margin-top: 20px;
+    	padding-bottom: 20px;
+	}
+	.footer .logo{
+		margin-top: 30px
+	}
+	.footer .phoneMailDiv{
+		margin-left: 0;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	.footer .btn-blue{
+		margin-top: 3px;
+		max-width: 100%;
+		margin-left: 0;
+	}
+	.footer .phoneMailDiv ul li a span{
+		font-size: 12px;
+	}
+	.footer .phoneMailDiv ul li:nth-child(1) a span{
+		padding-left:5px 
+	}
+	#best img{
+		max-width: 70%
+	}
+	#best{
+		top: 20px;
+    	right: -20px;
+	}
+	.bottom_border{
+		width: 20%
+	}
+	.bottom_border_two{
+		width: 62%
+	}
+	.bottom_border_three{
+		width: 75%
+	}
+	.bottom_border_four{
+		width: 100%
+	}
+	.bottom_border_one{
+		width: 12%
+	}
+	.bottom_border_six{
+		width: 35%
+	}
+	.connactionDivs div h6{
+		font-size: 15px
+	}
+}
+
+@media screen and (max-width: 710px){
+	.picImg {
+    	margin-top: -50px
+	}
+	.apiImg img{
+		margin-top: 100px;
+		max-width: 100%
+	}
+	.paddingDiv{
+		/*margin-top: -50px*/
+	}
+}
+
+@media screen and (max-width: 640px){
+	.picImg {
+    	margin-top: 0;
+    	margin-left: 250px
+	}
+	.apiImg img{
+		max-width: 100%
+	}
+	.btn-blue-second{
+		font-size: 10px
+	}
+}
+
+@media screen and (max-width: 590px){
+	.picImg {
+    	margin-left: 230px
+	}
+	.paddingDiv h1 {
+    	font-size: 30px !important;
+	}
+	.priceDiv{
+		margin-top: 20px
+	}
+}
+
+@media screen and (max-width: 575px){
+	.phoneMailDiv ul li a span {
+    	font-size: 14px !important;
+	}
+	.apiImg img {
+    	margin-top: -300px;
+    	margin-left: 300px;
+    	max-width: 35% !important;
+	}
+	.paddingDiv{
+		max-width: 300px !important
+	}
+	.phoneMailDiv ul{
+		margin-left: 120px
+	}
+	.btn-blue{
+		margin-top: -25px
+	}
+}
+
+@media screen and (max-width: 528px){
+	.apiImg img {
+    	margin-top: -350px;
+	}
+	.phoneMailDiv ul{
+		margin-left: 90px
+	}
+	.footer .phoneMailDiv ul li {
+    	margin-left: -40px;
+	}
+	#about{
+		margin-top: 180px
+	}
+}
+
+@media screen and (max-width: 478px){
+	.apiImg img {
+    	margin-top: -500px;
+    	max-width: 25% !important
+	}
+	.phoneMailDiv ul{
+		margin-left: 60px
+	}
+	#about{
+		margin-top: 200px
+	}
+}
+@media screen and (max-width: 440px){
+	.picImg {
+    	margin-left: 200px
+	}
+	.apiImg img {
+    	margin-top: -500px;
+    	max-width: 30% !important;
+    	margin-left: 280px
+	}
+	.btn-blue{
+		margin-top: -15px
+	}
+	.phoneMailDiv ul{
+		margin-left: 30px
+	}
+}
+
+
+
+@media screen and (max-width: 414px){
+	.btn-blue{
+		margin-left: 0;
+		max-width: 100%;
+		margin-top: -20px;
+	}
+	.logo{
+		text-align: left;
+	}
+	.displayMail{
+		display: none;
+	}
+	.phoneMailDiv{
+		text-align: right;
+	}
+	.phoneMailDiv ul li {
+    	margin-top: 26px;
+    	margin-right: 35px !important;
+	}
+	.phoneMailDiv ul li a span{
+		font-size: 13px !important
+	}
+	.picImg {
+    	margin-left: 142px;
+    	margin-top: 40px;
+	}
+	.apiDiv{
+		top: 330px
+	}
+	.apiImg img{
+		display: none;
+	}
+	.apiImgBlock {
+	    display: block;
+	    max-width: 30%;
+	    margin-top: -91px;
+	    margin-left: 190px;
+	}
+	.paddingDiv{
+		max-width: 100% !important
+	}
+	.apiRegTwo{
+		padding: 2px !important
+	}
+	#about{
+		margin-top: 300px
+	}
+	.workimg{
+		margin-top: -25px;
+		margin-left: -27px
+	}
+	#best img{
+		max-width: 100%
+	}
+	#best{
+		right: 20px;
+    	top: 22px;
+	}
+	.col-lg{
+		margin-top: 130px
+	}
+	.col-lg:last-child{
+		margin-top: 80px
+	}
+	.accardion2{
+		margin-top: 30px
+	}
+	#reg{
+		margin-top: 150px
+	}
+	.smart{
+		display: none;
+	}
+	.smartDisplay{
+		display: block;
+	}
+	.footer {
+    	padding-bottom: 5px;
+	}
+	.footer .logo{
+		margin-top: 30px
+	}
+	.footer .btn-blue{
+		margin-top: -20px;
+		max-width: 100%;
+	}
+	.footer .phoneMailDiv ul li a span{
+		font-size: 14px;
+	}
+	.bottom_border{
+		width: 35%
+	}
+	.bottom_border_two_two{
+		width: 90%
+	}
+	.bottom_border_two{
+		width: 45%
+	}
+	.bottom_border_three{
+		width: 75%
+	}
+	.bottom_border_four{
+		width: 80%
+	}
+	.bottom_border_one{
+		width: 22%
+	}
+	.bottom_border_six{
+		width: 67%
+	}
+	.bottom_border_five{
+		width: 40%
+	}
+}
+
+@media screen and (max-width: 375px){
+	.picImg{
+		margin-top: 45px !important;
+		margin-left: 155px !important
+	}
+	.btn-blue{
+		margin-left: 0;
+		max-width: 100%;
+		font-size: 10px
+	}
+	.btn-blue-second{
+		font-size: 10px
+	}
+	.picImg{
+		margin-left: 130px;
+		margin-top: 0;
+	}
+	.apiDiv{
+		top: 300px
+	}
+	.apiImgBlock{
+		margin-top: -70px;
+		margin-left: 170px
+	}
+	#about{
+		margin-top: 400px
+	}
+	.bottom_border{
+		width: 40%
+	}
+	.bottom_border_two_two{
+		width: 100%
+	}
+	.bottom_border_three{
+		width: 85%
+	}
+	.bottom_border_four{
+		width: 87%
+	}
+	.bottom_border_one{
+		width: 25%
+	}
+	.bottom_border_six{
+		width: 77%
+	}
+	.phoneMailDiv ul li {
+    	margin-right: 20px !important;
+	}
+	.footer .phoneMailDiv ul li {
+    	margin-right: 5px !important;
+	}
+}
+
+@media screen and (max-width: 360px){
+	.phoneMailDiv ul li a span{
+		font-size: 12px !important
+	}
+	.btn-blue-second,
+	.btn-blue{
+		font-size: 9px !important
+	}
+	.apiImgBlock{
+		max-width: 25% !important;
+		margin-top: -50px;
+		margin-left: 200px
+	}
+	/*.picImg {
+    	margin-left: 129px;
+    	margin-top: 30px;
+	}*/
+}
+
+@media screen and (max-width: 333px){
+	.apiReg{
+		padding: 0 !important
+	}
+	.btn-blue,
+	.btn-blue-second{
+		font-size: 8px !important
+	}
+	.btn-blue{
+        margin-top:-28px
+    }
+	.phoneMailDiv ul li a span{
+		font-size: 10px !important;
+	}
+	.phoneMailDiv ul li a{
+		margin-left: 0 ;
+	}
+	#about{
+		margin-top: 430px
+	}
+	.picImg{
+		margin-top: 40px;
+		margin-left: 142px
+	}
+	.paddingDiv h1{
+		text-align: center;
+	}
+	h1{
+		font-size: 29px !important
+	}
+	.col-lg{
+		margin-top: 190px
+	}
+	.col-lg:last-child{
+		margin-top: 150px
+	}
+	
+	.footer .phoneMailDiv ul li a{
+		margin-left: 0
+	}
+	.footer .phoneMailDiv ul li a span{
+		font-size: 12px
+	}
+	.picTwo{
+		margin-top: 0 !important
+	}
+	.aboutTxt{
+		margin:auto;
+	}
+	.accardionDiv{
+		padding:0;
+	}
+	.bottom_border{
+		width: 47%
+	}
+	.apiImgBlock {
+    	margin-top: -57px;
+	}
+	.paddingDiv{
+		margin-top: 30px !important
+	}
+	#faq{
+		margin-top: 90px
+	}
+	#reg{
+		margin-top: 60px
+	}
+	.menuTwo{
+		margin-top: 40px
+	}
+	.navbar-brand{
+		font-size: 13px !important
+	}
+}
+
+@media screen and (max-width: 300px){
+	.picImg{
+		margin-left: 120px !important;
+		margin-top: 50px !important
+	}
+	.phoneMailDiv{
+		margin-top: 0px
+	}
+	.phoneMailDiv ul li a{
+		margin-left: 15px
+	}
+	.phoneMailDiv ul li a span{
+		font-size: 9px !important;
+		padding: 0 !important;
+	}
+	.paddingDiv{
+		margin-top: -40px !important
+	}
+	.btn-blue{
+		padding: 5px 0 !important;
+		font-size: 7px !important
+	}
+	.apiImgBlock{
+		margin-left: 150px;
+		margin-top: -40px
+	}
+	h1{
+		font-size: 25px !important
+	}
+	p{
+		font-size: 12px
+	}
+	ul li{
+		font-size: 12px !important
+	}
+	h2{
+		font-size: 20px !important
+	}
+	h3{
+		font-size: 15px !important
+	}
+	.connactionDivs:nth-child(4) {
+    	margin-top: 210px;
+	}
+	#best img {
+    	max-width: 65%;
+	}
+	#best {
+    	right: 0px;
+    	top: 33px;
+	}
+}
+
+@media screen and (max-width: 270px){
+	#price{
+		margin-top: 80px
+	}
+	.logo img{
+		max-width: 220%;
+		margin-top: 25px
+	}
+	
+}
+
